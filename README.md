@@ -1,8 +1,9 @@
 # Personal Pytorch Practice
 
-
-- Image Classifier
-
 - CNN
 
 - RNN
+
+- GANs
+
+- AEs
